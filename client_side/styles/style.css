@@ -165,7 +165,7 @@ header.sticky ul li a{
 	box-shadow: 1px 1px 129px -44px rgba(247,247,247,1);
 
 
-#mid-section-span {
+#mid-section-span{
     font: 700 3em/1 "Oswald", sans-serif;
     letter-spacing: 0;
     padding: .25em 0 .325em;
@@ -193,3 +193,14 @@ header.sticky ul li a{
     0% { background-position: 0% 50%; }
     100% { background-position: 100% 50%; }
 }
+ /* #login-box{
+    width: 360px;
+    height: 380px;
+    margin: auto;
+    background-color: #6e6e6e;
+  
+	/* #1c1c1c */
+	/* 343434 */
+	/* #242424 */
+ 
+/* font family */ 
